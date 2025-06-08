@@ -1,0 +1,16 @@
+com/taskmanagement/model/Task.class
+com/taskmanagement/model/Story.class
+com/taskmanagement/TaskManagementApp.class
+com/taskmanagement/model/TaskStatus.class
+com/taskmanagement/controller/StoryController.class
+com/taskmanagement/repository/StoryRepository.class
+com/taskmanagement/repository/UserRepository.class
+com/taskmanagement/service/UserService.class
+com/taskmanagement/exception/TaskManagementException.class
+com/taskmanagement/repository/Repository.class
+com/taskmanagement/controller/UserController.class
+com/taskmanagement/model/User.class
+com/taskmanagement/controller/TaskController.class
+com/taskmanagement/service/TaskService.class
+com/taskmanagement/service/StoryService.class
+com/taskmanagement/repository/TaskRepository.class
